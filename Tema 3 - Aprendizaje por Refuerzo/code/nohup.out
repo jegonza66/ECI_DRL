@@ -1,0 +1,42 @@
+[I 08:14:49.692 LabApp] The port 8888 is already in use, trying another port.
+[I 08:14:49.693 LabApp] The port 8889 is already in use, trying another port.
+[I 08:14:49.701 LabApp] JupyterLab extension loaded from /home/joaco/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 08:14:49.701 LabApp] JupyterLab application directory is /home/joaco/anaconda3/share/jupyter/lab
+[I 08:14:49.703 LabApp] Serving notebooks from local directory: /home/joaco/Desktop/joaco/facultad/ECI/DRL/eci2019-DRL-master/Tema 3 - Aprendizaje por Refuerzo/code
+[I 08:14:49.703 LabApp] The Jupyter Notebook is running at:
+[I 08:14:49.703 LabApp] http://localhost:8890/?token=39354243a1ec4ac0df7caca9641c0f956eff390d769fa394
+[I 08:14:49.703 LabApp]  or http://127.0.0.1:8890/?token=39354243a1ec4ac0df7caca9641c0f956eff390d769fa394
+[I 08:14:49.703 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 08:14:49.722 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/joaco/.local/share/jupyter/runtime/nbserver-9859-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=39354243a1ec4ac0df7caca9641c0f956eff390d769fa394
+     or http://127.0.0.1:8890/?token=39354243a1ec4ac0df7caca9641c0f956eff390d769fa394
+[W 08:14:52.113 LabApp] Could not determine jupyterlab build status without nodejs
+[W 08:14:52.485 LabApp] 404 GET /api/contents/01.%20DQN_lunarlander.ipynb?content=0&1567163692435 (::1): No such file or directory: 01. DQN_lunarlander.ipynb
+[W 08:14:52.486 LabApp] No such file or directory: 01. DQN_lunarlander.ipynb
+[W 08:14:52.486 LabApp] 404 GET /api/contents/01.%20DQN_lunarlander.ipynb?content=0&1567163692435 (::1) 1.59ms referer=http://localhost:8890/lab
+[I 08:14:56.050 LabApp] Kernel started: 4c2ef6bc-bf92-4e38-8cc4-0a2d211b8cc0
+[I 08:15:10.405 LabApp] Kernel interrupted: 4c2ef6bc-bf92-4e38-8cc4-0a2d211b8cc0
+[W 08:15:17.345 LabApp] Notebook 02. Montecarlo_blackjack.ipynb is not trusted
+[I 08:15:18.780 LabApp] Kernel started: 681e38df-8ad1-43f5-936f-3f22a8c13bac
+[I 08:16:55.999 LabApp] Saving file at /01. hello_gym.ipynb
+[I 08:17:18.455 LabApp] Saving file at /02. Montecarlo_blackjack.ipynb
+[W 08:17:31.466 LabApp] Notebook 03. QLearning_cliffwalking.ipynb is not trusted
+[I 08:17:32.321 LabApp] Kernel started: 49c4dec6-6193-45a9-9c46-83c25eb9169c
+[I 08:18:07.278 LabApp] Kernel interrupted: 681e38df-8ad1-43f5-936f-3f22a8c13bac
+[I 08:18:26.553 LabApp] Kernel interrupted: 681e38df-8ad1-43f5-936f-3f22a8c13bac
+[I 08:19:18.541 LabApp] Saving file at /03. QLearning_cliffwalking.ipynb
+[W 08:19:18.542 LabApp] Notebook 03. QLearning_cliffwalking.ipynb is not trusted
+[I 08:19:18.748 LabApp] Saving file at /02. Montecarlo_blackjack.ipynb
+[I 08:21:01.610 LabApp] Saving file at /03. QLearning_cliffwalking.ipynb
+[I 08:21:18.965 LabApp] Saving file at /02. Montecarlo_blackjack.ipynb
+[I 08:21:42.691 LabApp] Kernel interrupted: 681e38df-8ad1-43f5-936f-3f22a8c13bac
+[I 08:23:19.247 LabApp] Saving file at /02. Montecarlo_blackjack.ipynb
+[I 08:25:19.531 LabApp] Saving file at /02. Montecarlo_blackjack.ipynb
+[I 08:25:32.529 LabApp] Saving file at /02. Montecarlo_blackjack.ipynb
+[I 08:25:34.133 LabApp] Starting buffering for 49c4dec6-6193-45a9-9c46-83c25eb9169c:ddbcfc8f-bc8e-4e2f-af78-bf75246eb361
+[I 08:25:34.134 LabApp] Starting buffering for 681e38df-8ad1-43f5-936f-3f22a8c13bac:0d64a0f6-7ff4-4288-9dc1-72fabe853047
+[I 08:25:34.135 LabApp] Starting buffering for 4c2ef6bc-bf92-4e38-8cc4-0a2d211b8cc0:1a96a261-953a-484d-9797-b68767d9676c

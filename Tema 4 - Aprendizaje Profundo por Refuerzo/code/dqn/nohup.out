@@ -1,0 +1,22 @@
+[I 08:13:03.323 LabApp] The port 8888 is already in use, trying another port.
+[I 08:13:03.337 LabApp] JupyterLab extension loaded from /home/joaco/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 08:13:03.337 LabApp] JupyterLab application directory is /home/joaco/anaconda3/share/jupyter/lab
+[I 08:13:03.341 LabApp] Serving notebooks from local directory: /home/joaco/Desktop/joaco/facultad/ECI/DRL/eci2019-DRL-master/Tema 4 - Aprendizaje Profundo por Refuerzo/code/dqn
+[I 08:13:03.341 LabApp] The Jupyter Notebook is running at:
+[I 08:13:03.341 LabApp] http://localhost:8889/?token=f79c2c79b11955edeabe8102f0f91b41771920a4e18d8c5a
+[I 08:13:03.341 LabApp]  or http://127.0.0.1:8889/?token=f79c2c79b11955edeabe8102f0f91b41771920a4e18d8c5a
+[I 08:13:03.341 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 08:13:03.379 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/joaco/.local/share/jupyter/runtime/nbserver-9641-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=f79c2c79b11955edeabe8102f0f91b41771920a4e18d8c5a
+     or http://127.0.0.1:8889/?token=f79c2c79b11955edeabe8102f0f91b41771920a4e18d8c5a
+[W 08:13:06.911 LabApp] Could not determine jupyterlab build status without nodejs
+[W 08:13:07.634 LabApp] 404 GET /api/contents/01.%20DDPG_pendulum.ipynb?content=0&1567163587552 (::1): No such file or directory: 01. DDPG_pendulum.ipynb
+[W 08:13:07.635 LabApp] No such file or directory: 01. DDPG_pendulum.ipynb
+[W 08:13:07.635 LabApp] 404 GET /api/contents/01.%20DDPG_pendulum.ipynb?content=0&1567163587552 (::1) 3.46ms referer=http://localhost:8889/lab
+[W 08:13:21.483 LabApp] Notebook 01. DQN_lunarlander.ipynb is not trusted
+[I 08:13:23.820 LabApp] Kernel started: a811b194-867d-4583-9451-5f8b2bb98ec0
+[I 08:14:00.320 LabApp] Starting buffering for a811b194-867d-4583-9451-5f8b2bb98ec0:f57440c2-7c40-46a2-b4b4-1bca39327a96

@@ -1,0 +1,24 @@
+[I 08:00:44.503 LabApp] JupyterLab extension loaded from /home/joaco/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 08:00:44.503 LabApp] JupyterLab application directory is /home/joaco/anaconda3/share/jupyter/lab
+[I 08:00:44.505 LabApp] Serving notebooks from local directory: /home/joaco/Desktop/joaco/facultad/ECI/DRL/eci2019-DRL-master/Tema 4 - Aprendizaje Profundo por Refuerzo/code/ddpg
+[I 08:00:44.505 LabApp] The Jupyter Notebook is running at:
+[I 08:00:44.505 LabApp] http://localhost:8888/?token=62489e5cd0b417e783e96e24622497093be4ee31d6cf8bf8
+[I 08:00:44.505 LabApp]  or http://127.0.0.1:8888/?token=62489e5cd0b417e783e96e24622497093be4ee31d6cf8bf8
+[I 08:00:44.505 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 08:00:44.525 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/joaco/.local/share/jupyter/runtime/nbserver-3728-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=62489e5cd0b417e783e96e24622497093be4ee31d6cf8bf8
+     or http://127.0.0.1:8888/?token=62489e5cd0b417e783e96e24622497093be4ee31d6cf8bf8
+[W 08:00:49.228 LabApp] Could not determine jupyterlab build status without nodejs
+[W 08:00:49.747 LabApp] 404 GET /api/contents/02.%20mi%20primera%20red.ipynb?content=0&1567162849626 (::1): No such file or directory: 02. mi primera red.ipynb
+[W 08:00:49.747 LabApp] No such file or directory: 02. mi primera red.ipynb
+[W 08:00:49.748 LabApp] 404 GET /api/contents/02.%20mi%20primera%20red.ipynb?content=0&1567162849626 (::1) 2.64ms referer=http://localhost:8888/lab
+[I 08:00:56.782 LabApp] Kernel started: 2b6b9581-90b3-4ba0-9b1a-651cde3a4b03
+[I 08:02:57.669 LabApp] Saving file at /01. DDPG_pendulum.ipynb
+[I 08:12:59.661 LabApp] Saving file at /01. DDPG_pendulum.ipynb
+[I 08:13:35.114 LabApp] Kernel interrupted: 2b6b9581-90b3-4ba0-9b1a-651cde3a4b03
+[I 08:15:00.637 LabApp] Saving file at /01. DDPG_pendulum.ipynb
+[I 08:25:41.490 LabApp] Starting buffering for 2b6b9581-90b3-4ba0-9b1a-651cde3a4b03:cca24fa5-a14c-4c84-bd38-1be34a085765

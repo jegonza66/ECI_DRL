@@ -1,0 +1,20 @@
+[I 07:57:25.120 LabApp] JupyterLab extension loaded from /home/joaco/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 07:57:25.120 LabApp] JupyterLab application directory is /home/joaco/anaconda3/share/jupyter/lab
+[I 07:57:25.122 LabApp] Serving notebooks from local directory: /home/joaco/Desktop/joaco/facultad/ECI/DRL/eci2019-DRL-master/Tema 2 - Aprendizaje Profundo/code
+[I 07:57:25.122 LabApp] The Jupyter Notebook is running at:
+[I 07:57:25.122 LabApp] http://localhost:8888/?token=eca1e2806d89a89ed8c02f75ce3e66c35af5d0363531e90f
+[I 07:57:25.122 LabApp]  or http://127.0.0.1:8888/?token=eca1e2806d89a89ed8c02f75ce3e66c35af5d0363531e90f
+[I 07:57:25.122 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 07:57:25.269 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/joaco/.local/share/jupyter/runtime/nbserver-3302-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=eca1e2806d89a89ed8c02f75ce3e66c35af5d0363531e90f
+     or http://127.0.0.1:8888/?token=eca1e2806d89a89ed8c02f75ce3e66c35af5d0363531e90f
+[W 07:57:28.208 LabApp] Could not determine jupyterlab build status without nodejs
+[I 07:57:40.506 LabApp] Kernel started: b8660b9f-40ce-40be-9cd5-537f9dc351d2
+[I 07:59:04.633 LabApp] Starting buffering for b8660b9f-40ce-40be-9cd5-537f9dc351d2:be2095f6-0797-4de8-bbf8-f700d286f5e6
+[I 07:59:59.942 LabApp] Interrupted...
+[I 07:59:59.943 LabApp] Shutting down 1 kernel
+[I 08:00:00.347 LabApp] Kernel shutdown: b8660b9f-40ce-40be-9cd5-537f9dc351d2

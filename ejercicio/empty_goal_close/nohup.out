@@ -1,0 +1,67 @@
+[I 01:17:43.698 LabApp] JupyterLab extension loaded from /home/joaco/anaconda3/envs/football/lib/python3.7/site-packages/jupyterlab
+[I 01:17:43.698 LabApp] JupyterLab application directory is /home/joaco/anaconda3/envs/football/share/jupyter/lab
+[I 01:17:43.704 LabApp] Serving notebooks from local directory: /home/joaco/Desktop/joaco/ECI/DRL/eci2019-DRL-master/ejercicio/empty_goal_close
+[I 01:17:43.704 LabApp] The Jupyter Notebook is running at:
+[I 01:17:43.704 LabApp] http://localhost:8888/?token=2255fc1d5baddf9848504f518237ddd04c4d00aa8acd2bcf
+[I 01:17:43.704 LabApp]  or http://127.0.0.1:8888/?token=2255fc1d5baddf9848504f518237ddd04c4d00aa8acd2bcf
+[I 01:17:43.704 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 01:17:43.804 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/joaco/.local/share/jupyter/runtime/nbserver-9934-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=2255fc1d5baddf9848504f518237ddd04c4d00aa8acd2bcf
+     or http://127.0.0.1:8888/?token=2255fc1d5baddf9848504f518237ddd04c4d00aa8acd2bcf
+[W 01:17:46.488 LabApp] Could not determine jupyterlab build status without nodejs
+[W 01:17:47.818 LabApp] 404 GET /api/contents/Desktop/joaco/ECI/NLP/codigo/eci2019nlp?1565151467815 (::1): No such file or directory: Desktop/joaco/ECI/NLP/codigo/eci2019nlp
+[W 01:17:47.819 LabApp] No such file or directory: Desktop/joaco/ECI/NLP/codigo/eci2019nlp
+[W 01:17:47.819 LabApp] 404 GET /api/contents/Desktop/joaco/ECI/NLP/codigo/eci2019nlp?1565151467815 (::1) 1.58ms referer=http://localhost:8888/lab
+[W 01:17:47.831 LabApp] 404 GET /api/contents/Desktop/joaco/ECI/NLP/codigo/eci2019nlp/TP.ipynb?content=0&1565151467816 (::1): No such file or directory: Desktop/joaco/ECI/NLP/codigo/eci2019nlp/TP.ipynb
+[W 01:17:47.831 LabApp] No such file or directory: Desktop/joaco/ECI/NLP/codigo/eci2019nlp/TP.ipynb
+[W 01:17:47.832 LabApp] 404 GET /api/contents/Desktop/joaco/ECI/NLP/codigo/eci2019nlp/TP.ipynb?content=0&1565151467816 (::1) 1.56ms referer=http://localhost:8888/lab
+[W 01:17:47.833 LabApp] 404 GET /api/contents/Desktop/joaco/ECI/NLP/codigo/eci2019nlp/generate_answer.py?content=0&1565151467818 (::1): No such file or directory: Desktop/joaco/ECI/NLP/codigo/eci2019nlp/generate_answer.py
+[W 01:17:47.833 LabApp] No such file or directory: Desktop/joaco/ECI/NLP/codigo/eci2019nlp/generate_answer.py
+[W 01:17:47.834 LabApp] 404 GET /api/contents/Desktop/joaco/ECI/NLP/codigo/eci2019nlp/generate_answer.py?content=0&1565151467818 (::1) 1.68ms referer=http://localhost:8888/lab
+[W 01:17:47.837 LabApp] 404 GET /api/contents/Desktop/joaco/ECI/NLP/codigo/eci2019nlp/read_data.py?content=0&1565151467820 (::1): No such file or directory: Desktop/joaco/ECI/NLP/codigo/eci2019nlp/read_data.py
+[W 01:17:47.837 LabApp] No such file or directory: Desktop/joaco/ECI/NLP/codigo/eci2019nlp/read_data.py
+[W 01:17:47.838 LabApp] 404 GET /api/contents/Desktop/joaco/ECI/NLP/codigo/eci2019nlp/read_data.py?content=0&1565151467820 (::1) 1.48ms referer=http://localhost:8888/lab
+[I 01:18:25.418 LabApp] Kernel started: 4a7d295b-f337-4cbb-80e3-259484b49848
+[I 01:18:26.387 LabApp] Adapting from protocol version 5.1 (kernel 4a7d295b-f337-4cbb-80e3-259484b49848) to 5.3 (client).
+[I 01:18:26.387 LabApp] Adapting from protocol version 5.1 (kernel 4a7d295b-f337-4cbb-80e3-259484b49848) to 5.3 (client).
+[I 01:20:25.103 LabApp] Saving file at /Tp.ipynb
+Wed Aug  7 01:21:13 2019 [Warning] in [OpenGLRenderer3D::CreateContext]: OpenGL version not equal to or higher than 3.2 (or not reported as such)
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'simple' not found: map_albedo
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'simple' not found: map_normal
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'simple' not found: map_specular
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'simple' not found: map_illumination
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'lighting' not found: map_albedo
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'lighting' not found: map_normal
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'lighting' not found: map_depth
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'lighting' not found: map_shadow
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformFloat]: Uniform location for shader 'lighting' not found: contextX
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformFloat]: Uniform location for shader 'lighting' not found: contextY
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformFloat]: Uniform location for shader 'lighting' not found: contextWidth
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformFloat]: Uniform location for shader 'lighting' not found: contextHeight
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'ambient' not found: map_albedo
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'ambient' not found: map_normal
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'ambient' not found: map_depth
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'ambient' not found: map_aux
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'ambient' not found: map_noise
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformFloat]: Uniform location for shader 'ambient' not found: contextX
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformFloat]: Uniform location for shader 'ambient' not found: contextY
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformFloat]: Uniform location for shader 'ambient' not found: contextWidth
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformFloat]: Uniform location for shader 'ambient' not found: contextHeight
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformFloat3Array]: Uniform location for shader 'ambient' not found: SSAO_kernel
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'postprocess' not found: map_accumulation
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'postprocess' not found: map_modifier
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformInt]: Uniform location for shader 'postprocess' not found: map_depth
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformFloat]: Uniform location for shader 'postprocess' not found: contextX
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformFloat]: Uniform location for shader 'postprocess' not found: contextY
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformFloat]: Uniform location for shader 'postprocess' not found: contextWidth
+Wed Aug  7 01:21:13 2019 [ERROR] in [OpenGLRenderer3D::SetUniformFloat]: Uniform location for shader 'postprocess' not found: contextHeight
+Wed Aug  7 01:21:14 2019 [ERROR] in [OpenGLRenderer3D::SetUniformMatrix4]:[I 01:22:25.773 LabApp] Saving file at /Tp.ipynb
+[I 01:23:34.389 LabApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 4a7d295b-f337-4cbb-80e3-259484b49848 restarted
+[I 01:23:48.453 LabApp] Saving file at /Tp.ipynb
+[I 01:23:53.159 LabApp] Adapting from protocol version 5.1 (kernel 4a7d295b-f337-4cbb-80e3-259484b49848) to 5.3 (client).
+[I 01:25:02.070 LabApp] Starting buffering for 4a7d295b-f337-4cbb-80e3-259484b49848:44f94901-bd4d-4905-8dc5-7fb4225f6a13
